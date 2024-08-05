@@ -1,0 +1,85 @@
+/* Navbar.css */
+.navbar {
+  background-color: #FFFFFF; /* Light grey background */
+}
+
+.nav-link, .navbar-brand {
+  color: #0e0d0d !important; /* Dark text */
+  display: flex;
+  align-items: center;
+  font-size: 1.25rem; /* Increased font size */
+}
+
+.nav-link:hover {
+  color: #121111 !important; /* Darker text on hover */
+  background-color: rgba(255, 255, 255, 0.1); /* Light background on hover */
+}
+
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.1); /* Light border for the toggler */
+}
+
+.navbar-brand {
+  margin-right: auto; /* Pushes the brand image to the left */
+}
+
+.navbar-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* Align all items to the left */
+  margin-left: 700px; /* Remove left margin on smaller screens */
+  font-family: 'Roboto', sans-serif; /* Apply the Google Font */
+}
+
+.nav-item {
+  margin-right: 10px; /* Space between items */
+}
+
+.nav-item img {
+  height: 40px; /* Adjust the height of the image */
+}
+
+.navbar-nav.ms-auto {
+  display: none; /* Hide items on the right side */
+}
+
+.dropdown-menu-end {
+  right: 0;
+  left: auto;
+}
+
+.dropdown-menu {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.dropdown-item {
+  font-size: 1rem; /* Font size for dropdown items */
+}
+
+.dropdown-item.bold {
+  font-weight: bold; /* Make text bold */
+}
+
+.dropdown-item:hover {
+  background-color: #e9ecef;
+}
+
+@media (max-width: 992px) { /* For screens smaller than 992px */
+  .navbar-nav {
+    justify-content: center;
+    margin-left: 0; /* Center align items on smaller screens */
+  }
+
+  .navbar-toggler {
+    display: block;
+  }
+
+  .navbar-collapse {
+    display: none; /* Hide the navbar links by default */
+  }
+
+  .navbar-collapse.show {
+    display: block; /* Show the links when toggled */
+  }
+}
