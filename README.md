@@ -21,7 +21,7 @@ Created responsive and user-friendly interfaces, enhancing user experience
 
 📞 Contact
 Phone: +91 8304044165
-Email: your-email@example.com
+Email: akshayprdp21@gmail.com
 
 
 🙏 Thank You
