@@ -5,7 +5,7 @@ FullStack Developer
 -------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://akshayprdp.netlify.app/](http://https://akshayprdp.netlify.app/)
+* 🖥️  See my portfolio at [akshayprdp.netlify.app/](akshayprdp.netlify.app/)
 * ✉️  You can contact me at [akshayprdp21@gmail.com](mailto:akshayprdp21@gmail.com)
 * 🚀  I'm currently working on [website for an IT consultancy.](http:// website for an IT consultancy.)
 
