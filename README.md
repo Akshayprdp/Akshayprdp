@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="180px"/>
+
 
 # 👋 Hey there, I'm **Akshay P**  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=480&lines=Full+Stack+Developer;MERN+Stack+Developer;Flutter+Developer;Passionate+about+UI%2FUX;Always+learning+new+tech)](https://git.io/typing-svg)
@@ -42,11 +41,3 @@
 
 ---
 
-## 🚀 Fun Facts About Me
-- 💬 I love talking about **JavaScript, React, Flutter, and UI design**.  
-- 🎨 I enjoy making **web apps look clean and modern**.  
-- ☕ Coffee is my second programming language.  
-
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="180px"/>
